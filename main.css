@@ -1,0 +1,32 @@
+/*   BACKGROUND CONTAINER    */
+
+.big-container {
+	height: 100%;
+	width: 100%;
+	background-color: #7F8C8D;
+}
+
+.inner-container {
+	
+	/* Center Horizontal */
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.header {
+	position: relative;
+	background-color: #2ECC71;
+	height: 200px;
+	border-bottom: 5px solid #27AE60;
+}
+
+.header h1 {
+	position: absolute;
+	bottom: 0;
+	margin: 15px 10px;
+	font-size: larger;
+	font-weight: bold;
+	color: #FFF;
+}
