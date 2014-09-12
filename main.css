@@ -120,14 +120,32 @@ article p {
 	margin: 25px 10px;
 }
 
+.placeholder-img {
+	background-color: #CCCCCC;
+	text-align: center;
+	width: 90%;
+	height: 125px;
+	margin-right: auto;
+	margin-left: auto;
+}
 
+.placeholder-img p {
+	color: #969696;
+	font-size: x-large;
+	font-family: initial;
+	padding: 50px 10px;
+}
 
+ol li {
+	font-size: smaller;
+	padding: 10px 10px;
+}
 
-
-
-
-
-
+.author-tag {
+	color: #99999B;
+	font-size: x-small;
+	padding: 0px 20px;
+}
 
 
 
